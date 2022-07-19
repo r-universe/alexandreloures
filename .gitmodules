@@ -8,3 +8,8 @@
 	url = https://github.com/alexandreloures/covid19brazil
 	shallow = true
 	registered = true
+[submodule "zerotradeflow"]
+	path = zerotradeflow
+	url = https://github.com/alexandreloures/zerotradeflow
+	shallow = true
+	registered = true

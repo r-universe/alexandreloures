@@ -2,5 +2,9 @@
   {
     "package": "covid19brazil",
     "oncran": true
+  },
+  {
+    "package": "zerotradeflow",
+    "oncran": true
   }
 ]
