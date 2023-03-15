@@ -1,10 +1,10 @@
 [
   {
-    "package": "zerotradeflow",
+    "package": "covid19brazil",
     "oncran": true
   },
   {
-    "package": "covid19brazil",
+    "package": "zerotradeflow",
     "oncran": true
   }
 ]
